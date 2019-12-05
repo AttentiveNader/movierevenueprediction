@@ -11,7 +11,7 @@ and the additional data is from
  only replacing missing values in different features with the a proper replacement
  ex. budget -->  mean budget by year ,
  One hot encoding the genres feature
- and extracting using information like top actors  from the html files
+ and generating features  like top actors  from the html files
  I got from these links which somehow seems like web scraping
  [top 1000 actors](https://www.imdb.com/list/ls058011111/)
  [top 200 directors](https://www.imdb.com/list/ls000009749/)
