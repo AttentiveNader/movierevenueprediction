@@ -1,5 +1,5 @@
 # Box office revenue prediction
-its a simple example on using an xgb based model (catboost)
+its a simple example on using a xgb based model (catboost)
 with a bit of feature engineering  
 # Data
 You can get the data from the Kaggle competition (the competition has ended)
